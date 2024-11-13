@@ -282,7 +282,7 @@ module.exports = {
     signup,
     signin, 
     verify,
-    verifyUserCode,
+    verifyUserCode,   
     forgotCode,
     recoverPassword,
     changePassword
